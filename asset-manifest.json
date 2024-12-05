@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DuyTan_KetThucMon/static/css/main.0163dfee.css",
+    "main.js": "/DuyTan_KetThucMon/static/js/main.f3f5d57c.js",
+    "index.html": "/DuyTan_KetThucMon/index.html",
+    "main.0163dfee.css.map": "/DuyTan_KetThucMon/static/css/main.0163dfee.css.map",
+    "main.f3f5d57c.js.map": "/DuyTan_KetThucMon/static/js/main.f3f5d57c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0163dfee.css",
+    "static/js/main.f3f5d57c.js"
+  ]
+}
